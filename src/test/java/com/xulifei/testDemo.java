@@ -9,6 +9,6 @@ public class testDemo {
 
      @Test
     public void a(){
-         System.out.println("xulifei");
+         System.out.println("sdf");
      }
 }
